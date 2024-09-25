@@ -2,7 +2,7 @@
 
 This project aims to develop a real-time drowsiness detection system using computer vision and deep learning techniques. The system processes video inputs and classifies whether a driver is **drowsy** or **not drowsy**, helping to enhance road safety.
 
-![Architecture Overview](path/to/your/image.png)
+![Architecture Overview](project-architecture/project-architecture.png)
 
 ## Table of Contents
 - [Overview](#overview)
